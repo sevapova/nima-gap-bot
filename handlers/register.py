@@ -61,3 +61,4 @@ def set_number(update: Update, context: CallbackContext):
 
     update.message.reply_text("Register qilindingiz.")
     return ConversationHandler.END
+
